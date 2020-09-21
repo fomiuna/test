@@ -1,0 +1,109 @@
+$ ./para.sh
+Offline ---------start---------
+OnePass ---------start---------
+MultiPass ---------start---------
+OnePass ---------start---------
+SampleGreedy ---------start---------
+fantom ---------start---------
+
+
+eps = 0.1   budget = 0.5
+------------------------------------------
+Methods           Revenue         Oracles 
+------------------------------------------
+Offline           18784.9           79860 
+OnePass           17342.2           30589 
+MultiPass         18796.7          158176 
+SampleGreedy      17222.9          134694 
+Fantom            20247.6       257044431 
+------------------------------------------
+Offline ---------start---------
+OnePass ---------start---------
+MultiPass ---------start---------
+OnePass ---------start---------
+SampleGreedy ---------start---------
+fantom ---------start---------
+
+
+eps = 0.2   budget = 0.5
+------------------------------------------
+Methods           Revenue         Oracles
+------------------------------------------
+Offline           18784.9           79860
+OnePass           17153.9           19211
+MultiPass         18772.3          107504
+SampleGreedy      17222.9          134694
+Fantom            20247.6       138164128
+------------------------------------------
+Offline ---------start---------
+OnePass ---------start---------
+MultiPass ---------start---------
+OnePass ---------start---------
+SampleGreedy ---------start---------
+fantom ---------start---------
+
+
+eps = 0.3   budget = 0.5
+------------------------------------------
+Methods           Revenue         Oracles 
+------------------------------------------
+Offline           18784.9           79860 
+OnePass           17254.8           15391 
+MultiPass         18690.1           91777
+SampleGreedy      17222.9          134694
+Fantom            20226.9        96394124
+------------------------------------------
+Offline ---------start--------- 
+OnePass ---------start--------- 
+MultiPass ---------start--------- 
+OnePass ---------start---------
+SampleGreedy ---------start--------- 
+fantom ---------start--------- 
+
+
+eps = 0.1   budget = 1
+------------------------------------------
+Methods           Revenue         Oracles
+------------------------------------------
+Offline           33100.9          152946
+OnePass           31479.4           34897
+MultiPass         33029.9          202522
+SampleGreedy      29975.4          209172
+Fantom            35920.9       256592060
+------------------------------------------
+Offline ---------start--------- 
+OnePass ---------start--------- 
+MultiPass ---------start--------- 
+OnePass ---------start---------
+SampleGreedy ---------start--------- 
+fantom ---------start---------
+
+
+eps = 0.2   budget = 1
+------------------------------------------
+Methods           Revenue         Oracles
+------------------------------------------
+Offline           33100.9          152946
+OnePass           31506.1           21717
+MultiPass         33051.2          149045
+SampleGreedy      29975.4          209172
+Fantom            34780.2       137923685
+------------------------------------------
+Offline ---------start---------
+OnePass ---------start---------
+MultiPass ---------start---------
+OnePass ---------start---------
+SampleGreedy ---------start---------
+fantom ---------start---------
+
+
+eps = 0.3   budget = 1
+------------------------------------------
+Methods           Revenue         Oracles
+------------------------------------------
+Offline           33100.9          152946
+OnePass           32879.4           17493
+MultiPass         32882.4          129467
+SampleGreedy      29975.4          209172
+Fantom            32241.2        96230258
+------------------------------------------
